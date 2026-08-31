@@ -55,7 +55,7 @@ An eval harness for non-deterministic agent output, built around independent sec
 ## 使う
 
 ```bash
-git clone https://github.com/tkyk-mcst/agent-eval-harness
+git clone https://github.com/takayuki-michishita/agent-eval-harness
 cd agent-eval-harness
 python examples/run_example.py     # 外部APIは要りません
 ```
